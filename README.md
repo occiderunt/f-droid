@@ -1,4 +1,4 @@
-# F-Droid repository
+# Bling F-Droid repository
 
 An F-Droid repository for [Bling](https://github.com/occiderunt/Bling), a
 peer-to-peer chat app.
