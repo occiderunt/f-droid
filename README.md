@@ -1,7 +1,6 @@
-# Bling F-Droid repository
+# F-Droid repository
 
-An F-Droid repository for [Bling](https://github.com/occiderunt/Bling), a
-peer-to-peer chat app.
+An F-Droid repository for my apps.
 
 Add it in F-Droid under **Settings -> Repositories**:
 
